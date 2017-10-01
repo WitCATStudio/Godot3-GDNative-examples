@@ -1,8 +1,8 @@
 [submodule "external/cpp_bindings"]
-    path = external/cpp_bindings
-    url = https://github.com/GodotNativeTools/cpp_bindings.git
+	path = external/cpp_bindings
+	url = https://github.com/GodotNativeTools/cpp_bindings
     branch = master
 [submodule "external/godot_headers"]
-    path = external/godot_headers
-    url = https://github.com/GodotNativeTools/godot_headers.git
+	path = external/godot_headers
+	url = https://github.com/GodotNativeTools/godot_headers
     branch = master
